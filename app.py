@@ -18,3 +18,8 @@ def run_query(sql_text: str):
     """
     return None
 
+def display_results(results):
+    """
+    @param results: The results of the query to display.
+    """
+    pass
